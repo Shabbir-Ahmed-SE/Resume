@@ -219,7 +219,7 @@ i{
     nav{
         height: 50px;
         width: 100%;
-        background-color: rgb(97, 36, 97);
+        background-color: var(--secondary-text-color);
         box-shadow: 7px 7px 20px black;
     }
     nav a{
