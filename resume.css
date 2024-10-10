@@ -278,6 +278,7 @@ i{
     nav{
         height: 70px;
         flex-wrap: wrap;
+        background-color: var(--secondary-text-color);
     }
     .left{
         width: 100%;
